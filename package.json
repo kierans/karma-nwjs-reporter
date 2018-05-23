@@ -1,0 +1,23 @@
+{
+  "name": "karma-nwjs-reporter",
+  "version": "1.0.0",
+  "description": "Reporter factory to decorate Karma reporters used with NW.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kierans/karma-nwjs-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter"
+  ],
+  "author": "Kieran Simpson <kierans777@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kierans/karma-nwjs-reporter/issues"
+  },
+  "homepage": "https://github.com/kierans/karma-nwjs-reporter#readme"
+}
