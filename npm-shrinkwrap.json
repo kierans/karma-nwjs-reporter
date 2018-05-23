@@ -1,0 +1,11 @@
+{
+  "name": "karma-nwjs-reporter",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": {
+      "version": "4.17.10",
+      "from": "lodash@latest",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.10.tgz"
+    }
+  }
+}
