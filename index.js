@@ -117,8 +117,6 @@ const NWReporter = function(baseReporterDecorator, formatError, injector, emitte
       .map(instantiateReporter.bind(this, injector, locals))
       .filter((reporter) => reporter !== null);
 
-  reporters.forEach((reporter) => emitter.bind(reporter));
-
   return reporters[0];
 };
 
