@@ -1,6 +1,6 @@
 {
   "name": "karma-nwjs-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reporter factory to decorate Karma reporters used with NW.js",
   "main": "index.js",
   "scripts": {
